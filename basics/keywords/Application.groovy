@@ -1,10 +1,10 @@
 /**
  * My Applicaiton Class
  */
-class class {
+class classi {
 
     private final String NAME = "THE_REAL_DAN_VEGA"
 
     String def = "some message"
-
+    
 }

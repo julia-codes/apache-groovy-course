@@ -24,6 +24,7 @@ class Tweet implements Serializable{
         }
         foundTags
     }
+    //could use findAll with a regex instead
     void retweet(){
         retweets ++
     }

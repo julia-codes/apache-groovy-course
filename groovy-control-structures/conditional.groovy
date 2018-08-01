@@ -45,7 +45,7 @@ println isitdan
 def msg 
 def output = (msg != null) ? msg : 'default message...'
 
-def elvisOutput = msg ?: 'default message...'
+def elvisOutput = msg ?: 'Has Left The Building...'
 
 println msg
 println output

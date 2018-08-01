@@ -12,9 +12,7 @@ assert numbers == []
 
 // for 
 
-for( variable in iterable ) {
-
-}
+//for( variable in iterable ) { }
 
 List nums = [1,2,3]
 for( Integer i in 1..10 ) {
@@ -23,7 +21,7 @@ for( Integer i in 1..10 ) {
 
 for( i in 1..5 ) { 
 
-}
+}//inside of for loop is not a closure
 
 Closure c = { } 
 
@@ -31,13 +29,13 @@ Closure c = { }
 // return/break/continue
 
 String getFoo() {
-    "foo"
+    "foo"// to be returned, don't have to return
 }
 
 Integer a = 1
 while( true ) { // infinite loop
     a++
-    break
+    break//get out of the while loop
 }
 assert a == 2
 

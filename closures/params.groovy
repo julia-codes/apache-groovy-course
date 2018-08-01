@@ -9,7 +9,7 @@ def noparams = { ->
     println "no params..."
 }
 
-noparams()
+noparams(1)
 
 def sayHello = { String first, String last ->
     println "Hello, $first $last"

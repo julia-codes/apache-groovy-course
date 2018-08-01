@@ -1,11 +1,12 @@
 // Exceptions 
 // ---------------------------------------
+//Exceptions in Groovy are not Optional
 /*
 public void foo() throws Exception {
     throw new Exception()
 }
 */
-
+//Exceptions in Groovy are optional
 def foo() {
     // do stuff
     throw new Exception("Foo Exception")
@@ -17,6 +18,7 @@ try {
   foo()  
 } catch( Exception e ) {
     log << e.message
+    println e
 } finally {
     log << 'finally'
 }

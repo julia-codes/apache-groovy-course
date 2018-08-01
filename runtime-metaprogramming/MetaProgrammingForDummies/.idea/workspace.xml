@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f67c4811-342b-4454-ba11-a227bc297a58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TimesTwoCategory.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-exercise/Tweet.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-exercise/app.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../oop/beans/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../oop/beans/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../oop/beans/src/com/therealdanvega/Tweet.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/../../oop/beans/src/com/therealdanvega/Tweet.groovy" afterDir="false" />
-    </list>
+    <list default="true" id="f67c4811-342b-4454-ba11-a227bc297a58" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +13,7 @@
     <session id="748494283">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="2" />
@@ -158,8 +152,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533157025748" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533157029072" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ast" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -239,16 +233,15 @@
       <option name="presentableId" value="Default" />
       <updated>1533153859363</updated>
       <workItem from="1533153865418" duration="2639000" />
-      <workItem from="1533156571457" duration="454000" />
+      <workItem from="1533156571457" duration="1007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3093000" />
+    <option name="totallyTimeSpent" value="3646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1396" y="40" width="1476" height="1248" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32627118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -260,7 +253,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3336323" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3336323" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

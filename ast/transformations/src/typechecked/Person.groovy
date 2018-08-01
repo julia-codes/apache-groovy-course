@@ -2,7 +2,7 @@ package typechecked
 
 import groovy.transform.TypeChecked
 
-@TypeChecked
+@groovy.transform.TypeChecked()
 class Person {
 
     String firstName
@@ -10,5 +10,11 @@ class Person {
 
     String getFullName(){
         "$firstName $lastName"
+    }
+    void printFullName(){
+        println "$firstName $lastName"
+    }
+    void greet(){
+        "Hello! My name is $firstName"
     }
 }

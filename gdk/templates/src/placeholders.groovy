@@ -8,3 +8,9 @@
     <%groovycode%>    Evaluate the groovy code
 
  */
+Integer a = 1
+Integer b = 2
+String c = '!'
+println "this contains $b dynamic strings ${a.times('!') }"
+
+
